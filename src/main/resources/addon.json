@@ -1,0 +1,14 @@
+{
+  "name": "PermissionLore",
+  "author": "brainsynder",
+
+  "version": 0.1,
+  "supported-build": 163,
+
+  "description": [
+    "&7This addon adds a lore to the",
+    "&7pet items if they do/don't have",
+    "&7permission or if they have purchased",
+    "&7the pet on the server."
+  ]
+}
